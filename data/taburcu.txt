@@ -1,0 +1,6 @@
+TABURCU OLAN HASTALAR
+ide       vet_adı   isim      tur       cinsiyet  renk      yas       agırlık   kısırlık  ameliyat  asi       kontrol   alci      teshis
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+1         nazli     zeytin    köpek     dişi      siyah     3         10        evet      hayir     evet      hayir     evet      kanser
+4         nazli     memo      balık     erkek     turuncu   1         2         hayir     evet      hayir     hayir     hayir     görmeengelli
+5         Nazli     karabas   köpek     dişi      siyah     3         7         evet      hayir     hayir     evet      evet      grip      

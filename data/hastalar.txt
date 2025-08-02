@@ -1,0 +1,10 @@
+HASTA BILGILERI
+ide       vet_adı   isim      tur       cinsiyet  renk      yas       agırlık   kısırlık  ameliyat  asi       kontrol   alci      teshis
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+2         Emine     pamuk     kedi      dişi      beyaz     2         4         evet       evet      evet      evet     evet       evet
+3         Nuran     maviş     kus       dişi      maviiş    1         1         
+5         Nazli     karabas   köpek     dişi      siyah     3         7         
+6         Nuran     naz       tavşan    dişi      beyaz     2         3         
+7         Bekir     boncuk    kedi      dişi      sari      3         2         
+8         Emine     duman     kedi      erkek     gri       3         3         
+9         Nuran     akkız     kedi      dişi      beyaz     4         2         

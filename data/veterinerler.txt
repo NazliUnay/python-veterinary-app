@@ -1,0 +1,8 @@
+VETERINER BILGILERI
+IDE                           AD                            SOYAD                         ŞİFRE                         UZMANLIK                          NOBET
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1                             Bekir                         kılıç                         344                           Cerrahi
+2                             nuran                         taş                           236                           Pet
+4                             ali                           ak                            234                           Pet
+5                             Nazli                         Unay                          PEt                           Büyük Baş                     
+6                             Nuran                         Ünay                          134                           Pet                           23-Nisan----Ulusal            
