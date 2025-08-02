@@ -1,0 +1,19 @@
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Sanal ortam klasörleri (kendi kullandığın adı yazabilirsin)
+venv/
+env/
+
+# Projede saklanan kullanıcı veya gizli bilgiler (şifre dosyaları)
+yoneticiler.txt
+veterinerler.txt
+hastalar.txt
+taburcu.txt

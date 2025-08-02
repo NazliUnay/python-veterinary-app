@@ -1,0 +1,21 @@
+RESMI TATILLER
+IDE      GUN
+---------------------------------------------------------
+1        1-Ocak----Yilbasi
+2        9-NisanRamazan----Bayrami Arifesi
+3        10-Nisan----Ramazan Bayrami 1.gun
+4        11-Nisan----Ramazan Bayrami 2.gun
+5        12-Nisan----Ramazan Bayrami 3.gun
+6        23-Nisan----Ulusal Egemenlik ve Cocuk Bayrami
+7        1-Mayis----Emek ve Dayanisma Gunu
+8        19-Mayis----Ataturku Anma Genclik ve Spor Bayrami
+9        15-Haziran----Kurban Bayrami Arifesi
+10       16-Haziran----Kurban Bayrami 1.gun
+11       17-Haziran----Kurban Bayrami 2.gun
+12       18-Haziran----Kurban Bayrami 3.gun
+13       19-Haziran----Kurban Bayrami 4.gun
+14       15-Temmuz----Demokrasi ve Milli Birlik Gunu
+15       30-Agustos----Zafer Bayrami
+16       28-Ekim----Cumhuriyet Bayrami Arifesi
+17       29-Ekim----Cumhuriyet Bayrami
+18       31-Aralik----Yilbasi gecesi
