@@ -31,7 +31,7 @@ Amaç, klinikteki yönetici ve veterinerlerin hasta takibini, tedavi yönetimini
 4. Aşağıdaki komutu çalıştırın:  
 
 ```bash
-python main.py
+python App.py
 ```
 
 ---
